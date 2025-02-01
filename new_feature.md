@@ -1,0 +1,4 @@
+I tried to add a 'play again' button 
+As this is a memory matching game it is reasonable to expect that it has this feature as players often want to retry the game immediately after finishing, especially as I have a leaderboard feature so they might want to improve their score. Additionally, many interactive games and apps include a reset or replay feature, making it a familiar and expected function for players
+This feautre should work by resetting the game state to the very first screen that the player comes across so the player can start fresh without needing to refresh the page. 
+ChatGPT failed to implement this feature by not loading the beginning screen when the button is pressed leaving the player stuck at their previous game. 
